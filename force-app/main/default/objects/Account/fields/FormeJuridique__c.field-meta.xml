@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>FormeJuridique__c</fullName>
+    <inlineHelpText>Utilisez le bouton &quot;Enrichir avec Pappers 🚀&quot; pour remplir ce champ automatiquement.</inlineHelpText>
+    <label>Forme Juridique</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Association déclarée</fullName>
+                <default>false</default>
+                <label>Association déclarée</label>
+            </value>
+            <value>
+                <fullName>Autre SA coopérative à conseil d’administration</fullName>
+                <default>false</default>
+                <label>Autre SA coopérative à conseil d’administration</label>
+            </value>
+            <value>
+                <fullName>Autre société civile</fullName>
+                <default>false</default>
+                <label>Autre société civile</label>
+            </value>
+            <value>
+                <fullName>EURL, entreprise unipersonnelle à responsabilité limitée</fullName>
+                <default>false</default>
+                <label>EURL, entreprise unipersonnelle à responsabilité limitée</label>
+            </value>
+            <value>
+                <fullName>Entrepreneur individuel</fullName>
+                <default>false</default>
+                <label>Entrepreneur individuel</label>
+            </value>
+            <value>
+                <fullName>SA à conseil d’administration (s.a.i.)</fullName>
+                <default>false</default>
+                <label>SA à conseil d’administration (s.a.i.)</label>
+            </value>
+            <value>
+                <fullName>SARL, société à responsabilité limitée</fullName>
+                <default>false</default>
+                <label>SARL, société à responsabilité limitée</label>
+            </value>
+            <value>
+                <fullName>SAS, société par actions simplifiée</fullName>
+                <default>false</default>
+                <label>SAS, société par actions simplifiée</label>
+            </value>
+            <value>
+                <fullName>SASU, société par actions simplifiée unipersonnelle</fullName>
+                <default>false</default>
+                <label>SASU, société par actions simplifiée unipersonnelle</label>
+            </value>
+            <value>
+                <fullName>SCI, société civile immobilière</fullName>
+                <default>false</default>
+                <label>SCI, société civile immobilière</label>
+            </value>
+            <value>
+                <fullName>Société civile d’exploitation agricole</fullName>
+                <default>false</default>
+                <label>Société civile d’exploitation agricole</label>
+            </value>
+            <value>
+                <fullName>Société en nom collectif</fullName>
+                <default>false</default>
+                <label>Société en nom collectif</label>
+            </value>
+            <value>
+                <fullName>Société étrangère non immatriculée au RCS</fullName>
+                <default>false</default>
+                <label>Société étrangère non immatriculée au RCS</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
