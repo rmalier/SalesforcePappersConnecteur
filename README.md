@@ -36,7 +36,7 @@ en interrogeant l'API **Pappers.fr** directement via un bouton d'action rapide.
 
 Déployez automatiquement ce projet dans votre Salesforce en 1 clic :
 
-[![Deploy to Salesforce](https://githubsfdeploy.herokuapp.com/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com/?owner=rmalier&repo=SalesforcePappersConnecteur)
+[![Deploy to Salesforce](https://githubsfdeploy.herokuapp.com/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com/?owner=rmalier&repo=SalesforcePappersConnecteur&ref=main&path=force-app/main/default)
 ---
 
 ## 🧩 Post-déploiement
