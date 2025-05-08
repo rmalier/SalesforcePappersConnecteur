@@ -32,13 +32,9 @@ en interrogeant l'API **Pappers.fr** directement via un bouton d'action rapide.
 
 ---
 
-## 🚀 Déploiement en deux étapes
+## 🚀 Déploiement
 
-### 1. Déployer les champs personnalisés
-**[![Deploy Step 1](https://githubsfdeploy.herokuapp.com/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com/?owner=rmalier&repo=SalesforcePappersConnecteur&ref=main&path=deploy-step-1-fields)**
-
-### 2. Déployer le connecteur complet (Apex, Flow, Quick Action)
-[![Deploy Step 2](https://githubsfdeploy.herokuapp.com/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com/?owner=rmalier&repo=SalesforcePappersConnecteur&ref=main&path=deploy-step-2-main)
+[![Deploy to Salesforce](https://githubsfdeploy.herokuapp.com/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com/?owner=rmalier&repo=SalesforcePappersConnecteur&ref=main&path=force-app/main/default)
 ---
 
 ## 🧩 Post-déploiement
